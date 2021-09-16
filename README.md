@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Guillermo Lupiáñez
+# Hello, I'm Guillermo Lupiáñez
 
 [![Gmail Badge](https://img.shields.io/badge/-guillelupianez99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillelupianez99@gmail.com)](mailto:guillelupianez99@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-guillelpnz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)](https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)
