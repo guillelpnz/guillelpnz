@@ -7,7 +7,7 @@
 
 𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-:computer: Software developer, currently on CXPLUS Andalucía
+:computer: Software developer, currently working as a Full-stack engineer in a data analysis & data insights project at nucleoo
 
 :vulcan_salute: I'm passionate about coding
 
