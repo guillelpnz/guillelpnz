@@ -13,7 +13,6 @@
 - 🧪 Testing enthusiast: pytest, fixtures, mocking, CI/CD, and coverage-first mindset
 - 🧱 Advocate of Clean Architecture and scalable backend design
 - 🌍 Open to remote work across Europe or globally
-- 🛠️ Currently developing a dockerized Django REST API using JWT and Clean Architecture as part of a technical challenge
 
 ---
 
