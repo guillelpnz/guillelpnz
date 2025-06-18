@@ -1,60 +1,72 @@
 # Hello, world! I'm Guillermo Lupiáñez 👨‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-guillelupianez99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillelupianez99@gmail.com)](mailto:guillelupianez99@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-guillelpnz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)](https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)
+[![LinkedIn Badge](https://img.shields.io/badge/-guillelpnz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)](https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)
 
-𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+🚀 **Senior Backend & Cloud Engineer** focused on building scalable, secure, and modern platforms using Python and AWS.  
+🎯 Passionate about backend architecture, infrastructure as code, and well-tested systems.
 
-:computer: Software developer, currently working as a Full-stack engineer in a data analysis & data insights project at nucleoo
+## 🧠 About Me
 
-:vulcan_salute: I'm passionate about coding
+- 🐍 4+ years of experience building backend services with Python
+- ☁️ Strong skills in AWS, infrastructure as code with Terraform, and Docker-based environments
+- 🧪 Testing enthusiast: pytest, fixtures, mocking, CI/CD, and coverage-first mindset
+- 🧱 Advocate of Clean Architecture and scalable backend design
+- 🌍 Open to remote work across Europe or globally
+- 🛠️ Currently developing a dockerized Django REST API using JWT and Clean Architecture as part of a technical challenge
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+---
 
-### Frontend
+## 🧰 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://github.com/aleen42/badges/raw/master/src/react.svg)
-
-### Multipurpose
+### Backend
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-%23ff1709.svg?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask)
 
-### Frameworks
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Spring boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab)
+
+### Testing & Tooling
+
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=flat-square&logo=python)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-%236C48FF.svg?style=flat-square&logo=python&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker--Compose-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### PaaS
-
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Version control
+### Miscellaneous
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Favorite IDE
-
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
+---
+
+## 🧭 Engineering Philosophy
+
+- 🔒 **Security-first**: Designing APIs and infrastructure with security and privacy in mind  
+- 🧹 **Clean Architecture**: I favor separation of concerns, testability, and long-term maintainability  
+- 🧪 **Testing culture**: From unit to integration tests, I write code to be verified and trusted  
+- 🚀 **Cloud-native mindset**: I embrace infrastructure as code, containerization, and distributed systems  
+- 🛠️ **Pragmatic problem solver**: I value simple, scalable solutions over over-engineering  
+- 📈 **Continuous improvement**: Always learning, reflecting, and iterating to become a better engineer  
+
+---
+
+## 🤝 Let's Connect
+
+If you're building something meaningful with Python, AWS, or clean systems — I'm always up for a good tech conversation.  
+**Reach out to collaborate, share ideas, or if you're hiring!**
