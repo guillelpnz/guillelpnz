@@ -1,71 +1,43 @@
-# Hello, world! I'm Guillermo Lupiáñez 👨‍💻
+# Hi, I'm Guillermo Lupiáñez 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-guillelupianez99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillelupianez99@gmail.com)](mailto:guillelupianez99@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-guillelpnz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)](https://www.linkedin.com/in/guillermo-lupi%C3%A1%C3%B1ez-tapia-1886ab1aa/)
+[![Gmail](https://img.shields.io/badge/-guillelupianez99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:guillelupianez99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-guille--lupianez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guille-lupianez/)
 
-🚀 **Senior Backend & Cloud Engineer** focused on building scalable, secure, and modern platforms using Python and AWS.  
-🎯 Passionate about backend architecture, infrastructure as code, and well-tested systems.
+🚀 **Backend Engineer** building event-driven microservices and applied-AI systems with **Python, FastAPI and AWS**.
+🎯 Focused on the intersection of scalable backends and real-world LLM/RAG features in production.
 
 ## 🧠 About Me
 
-- 🐍 4+ years of experience building backend services with Python
-- ☁️ Strong skills in AWS, infrastructure as code with Terraform, and Docker-based environments
-- 🧪 Testing enthusiast: pytest, fixtures, mocking, CI/CD, and coverage-first mindset
-- 🧱 Advocate of Clean Architecture and scalable backend design
-- 🌍 Open to remote work across Europe or globally
+- 🐍 5+ years building backend services with Python and FastAPI
+- ⚡ Event-driven architecture at scale: migrated to **Kafka**, handling 100K+ events/second
+- 🤖 Applied AI: **MCP** servers with **ChromaDB** for RAG, LLM integration via **AWS Bedrock**
+- ☁️ Hands-on across AWS: Bedrock, Lambda, S3, CloudFront, MediaLive, Secrets Manager
+- 🧪 Clean architecture, testing culture (Pytest), and CI/CD (Gitlab CI/CD, Docker, Kubernetes)
+- 🌍 Open to remote work across Europe
 
 ---
 
 ## 🧰 Tech Stack
 
-### Backend
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-%23ff1709.svg?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask)
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=flat-square&logo=gitlab)
-
-### Testing & Tooling
-
-![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=flat-square&logo=python)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Poetry](https://img.shields.io/badge/Poetry-%236C48FF.svg?style=flat-square&logo=python&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker--Compose-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-### Miscellaneous
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+**Backend** · Python · FastAPI · Flask · Django
+**AI / LLM** · MCP (Model Context Protocol) · RAG · ChromaDB · AWS Bedrock
+**Event-Driven** · Apache Kafka · RabbitMQ
+**Cloud & DevOps** · AWS · Docker · Kubernetes · Gitlab CI/CD
+**Data** · PostgreSQL · MongoDB · Redis
+**Testing** · Pytest · coverage-first mindset
 
 ---
 
 ## 🧭 Engineering Philosophy
 
-- 🔒 **Security-first**: Designing APIs and infrastructure with security and privacy in mind  
-- 🧹 **Clean Architecture**: I favor separation of concerns, testability, and long-term maintainability  
-- 🧪 **Testing culture**: From unit to integration tests, I write code to be verified and trusted  
-- 🚀 **Cloud-native mindset**: I embrace infrastructure as code, containerization, and distributed systems  
-- 🛠️ **Pragmatic problem solver**: I value simple, scalable solutions over over-engineering  
-- 📈 **Continuous improvement**: Always learning, reflecting, and iterating to become a better engineer  
+- 🧱 **Clean architecture** — separation of concerns, testability, long-term maintainability
+- 🧪 **Testing culture** — from unit to integration, code written to be trusted
+- 🚀 **Cloud-native** — infrastructure, containerization, distributed systems
+- 🛠️ **Pragmatic** — simple, scalable solutions over over-engineering
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're building something meaningful with Python, AWS, or clean systems — I'm always up for a good tech conversation.  
+If you're building something with Python, event-driven systems, or applied AI — I'm always up for a good tech conversation.
 **Reach out to collaborate, share ideas, or if you're hiring!**
