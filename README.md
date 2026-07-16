@@ -1,43 +1,35 @@
-# Hi, I'm Guillermo Lupiáñez 👋
+# Guillermo Lupiáñez
 
-[![Gmail](https://img.shields.io/badge/-guillelupianez99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:guillelupianez99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-guille--lupianez-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guille-lupianez/)
+**Senior Backend Engineer** building high-throughput Python systems,
+event-driven architectures and cloud platforms on AWS.
 
-🚀 **Backend Engineer** building event-driven microservices and applied-AI systems with **Python, FastAPI and AWS**.
-🎯 Focused on the intersection of scalable backends and real-world LLM/RAG features in production.
+I work on backend systems where throughput, reliability, tenant isolation and
+operational cost matter.
 
-## 🧠 About Me
+## Selected production experience
 
-- 🐍 5+ years building backend services with Python and FastAPI
-- ⚡ Event-driven architecture at scale: migrated to **Kafka**, handling 100K+ events/second
-- 🤖 Applied AI: **MCP** servers with **ChromaDB** for RAG, LLM integration via **AWS Bedrock**
-- ☁️ Hands-on across AWS: Bedrock, Lambda, S3, CloudFront, MediaLive, Secrets Manager
-- 🧪 Clean architecture, testing culture (Pytest), and CI/CD (Gitlab CI/CD, Docker, Kubernetes)
-- 🌍 Open to remote work across Europe
+- Led a playback-telemetry redesign handling **100K+ sustained events/sec**,
+  publishing directly to Kafka and removing RabbitMQ from the critical path.
+- Migrated managed Kafka from Confluent Cloud to Amazon MSK, reducing streaming
+  costs by **80%**.
+- Built a Kafka-based viewing-progress service for a **seven-figure user
+  platform**, using event coalescing to reduce Redis write pressure.
+- Developed and operated **10+ production microservices** with Python, FastAPI,
+  PostgreSQL, Docker, Kubernetes and Helm.
+- Built a multi-tenant MCP platform with token-derived isolation,
+  tenant-scoped GraphQL tools, human approval for writes and RAG over 100+
+  Confluence pages.
 
----
+## Engineering focus
 
-## 🧰 Tech Stack
+- **Core:** Python, distributed systems, Apache Kafka, FastAPI, PostgreSQL, Redis
+- **Cloud:** AWS, Docker, Kubernetes, Helm, CI/CD, observability
+- **Applied AI:** MCP, RAG, Amazon Bedrock, production LLM integrations
 
-**Backend** · Python · FastAPI · Flask · Django
-**AI / LLM** · MCP (Model Context Protocol) · RAG · ChromaDB · AWS Bedrock
-**Event-Driven** · Apache Kafka · RabbitMQ
-**Cloud & DevOps** · AWS · Docker · Kubernetes · Gitlab CI/CD
-**Data** · PostgreSQL · MongoDB · Redis
-**Testing** · Pytest · coverage-first mindset
+## Contact
 
----
+[LinkedIn](https://www.linkedin.com/in/guille-lupianez) ·
+[guillermo.lupianez.tapia@gmail.com](mailto:guillermo.lupianez.tapia@gmail.com)
 
-## 🧭 Engineering Philosophy
-
-- 🧱 **Clean architecture** — separation of concerns, testability, long-term maintainability
-- 🧪 **Testing culture** — from unit to integration, code written to be trusted
-- 🚀 **Cloud-native** — infrastructure, containerization, distributed systems
-- 🛠️ **Pragmatic** — simple, scalable solutions over over-engineering
-
----
-
-## 🤝 Let's Connect
-
-If you're building something with Python, event-driven systems, or applied AI — I'm always up for a good tech conversation.
-**Reach out to collaborate, share ideas, or if you're hiring!**
+Based in Spain with EU work authorization. Open to remote roles and EU
+relocation.
