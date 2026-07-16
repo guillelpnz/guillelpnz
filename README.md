@@ -22,7 +22,8 @@ operational cost matter.
 
 ## Engineering focus
 
-- **Core:** Python, distributed systems, Apache Kafka, FastAPI, PostgreSQL, Redis
+- **Core:** Python, distributed systems, event-driven architectures, FastAPI,
+  PostgreSQL, Redis
 - **Cloud:** AWS, Docker, Kubernetes, Helm, CI/CD, observability
 - **Applied AI:** MCP, RAG, Amazon Bedrock, production LLM integrations
 
