@@ -20,6 +20,17 @@ operational cost matter.
   tenant-scoped GraphQL tools, human approval for writes and RAG over 100+
   Confluence pages.
 
+## Independent product
+
+### [Grano](https://holagrano.com/) — specialty-coffee comparison platform
+
+Created and launched a live product that compares specialty coffees by their
+real delivered cost, normalizing product and shipping data across destinations
+and bag sizes.
+
+Current public snapshot: **38 roasters**, **626 coffees** and **2,189 outbound
+shop clicks in 30 days**.
+
 ## Engineering focus
 
 - **Core:** Python, distributed systems, event-driven architectures, FastAPI,
