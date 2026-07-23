@@ -40,6 +40,7 @@ shop clicks in 30 days**.
 
 ## Contact
 
+[guilledev.es](https://guilledev.es) ·
 [LinkedIn](https://www.linkedin.com/in/guille-lupianez) ·
 [guillermo.lupianez.tapia@gmail.com](mailto:guillermo.lupianez.tapia@gmail.com)
 
